@@ -4,3 +4,7 @@ html {
   scroll-behavior: smooth;
   font-family: 'Space Grotesk', sans-serif !important;
 }
+
+.project-card-link {
+  cursor: pointer;
+}
